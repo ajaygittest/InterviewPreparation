@@ -1,0 +1,12 @@
+<!-- <label>{{parentData}}</label>
+<br>
+<label>{{childEmiitData}}</label>
+<br>
+<label>Child</label>
+<br>
+<app-child [childData]="parentData" (parentSend)="parentEvent($event)"></app-child> -->
+
+<label>{{'Parent'| upperCase }}</label>
+<br>
+<a [routerLink]="['/child']">Navigate to Child</a>
+<button (click)="emitSubject()"></button>

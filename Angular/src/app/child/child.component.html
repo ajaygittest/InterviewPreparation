@@ -1,0 +1,8 @@
+<label>Welcome</label>
+<button (click)="sentParentToData()">Click</button>
+<label>{{serviceMessage}}</label>
+<table>
+    <li *ngFor="let emp of employeeData">
+        <div *ngIf="emp.age>30">emp</div>
+    </li>
+</table>
