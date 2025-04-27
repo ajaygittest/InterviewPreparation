@@ -1,0 +1,24 @@
+$bg-primary-color: #0d6efd;
+$bg-success-color: #198754;
+$bg-danger-color: #dc3545;
+
+
+.btn{
+  border:none;
+  padding: 8px 20px;
+  border-radius: 5px;
+
+}
+
+.btn-primary{
+  background-color: $bg-primary-color;
+  color:#fff;
+}
+.btn-success{
+  background-color: $bg-success-color;
+  color:#fff;
+}
+.btn-danger{
+  background-color: $bg-danger-color;
+  color:#fff;
+}

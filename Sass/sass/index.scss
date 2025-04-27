@@ -1,0 +1,28 @@
+@import "variable";
+@import "buttons";
+h2{
+  color: $primary-color;
+}
+
+nav{
+  background-color: #222;
+  padding: 10px;
+  a{
+    text-decoration: done;
+    display: inline-block;
+    padding: 5px 10px;
+    color: #fff;
+    &:last-child{
+      color:red;
+    }
+  }
+}
+
+p{
+
+  line-height: 30px;
+  text-indent: 30px;
+  a{
+    text-decoration: none;
+  }
+}

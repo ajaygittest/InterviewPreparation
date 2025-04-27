@@ -1,0 +1,12 @@
+
+
+$primary-color:#3498db;
+$colors: (
+
+  "primary":#0d6efd,
+  "success":#198754
+);
+
+@debug map-get($colors,"primary")
+
+
