@@ -1,0 +1,30 @@
+
+// website: https://www.sql-practice.com/
+//Video: https://www.youtube.com/watch?v=nYmoQ4r0DVw
+
+SELECT * FROM patients
+
+select distinct year(birth_date) from patients order by year(birth_date) asc
+
+
+select first_name from patients group by first_name having count(*)=1;
+
+select patient_id, first_name from patients where first_name like 's____%s';
+
+select patients.patient_id, first_name, last_name from patients join admissions on admissions.patient_id=patients.patient_id where admissions.diagnosis = 'Dementia';
+
+select upper(first_name) from patients order by len(first_name), first_name
+
+
+
+select
+(select count(*) from patients where gender='M') as male_count ,
+(select count(*) from patients where gender='F')  as female_count
+
+select first_name, last_name, allergies from patients where
+allergies='Penicillin' or allergies='Morphine' order by allergies,first_name,last_name
+
+
+select patient_id, diagnosis from admissions group by patient_id, diagnosis having count(*)>1
+
+select city, count(*) as num_patients from patients group by city order by num_patients DESC, city ASC
