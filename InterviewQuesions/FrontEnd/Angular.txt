@@ -1,0 +1,56 @@
+Angular LifeCycled
+What is SPA
+how to communicate between component in angular
+ngonint and constructor difference
+input and output uses
+how to create customPipe
+example of few pipes 
+what is services
+write the code to loop the list and populate in the html
+what is lazyloading how you will achieved
+what are new feature in angular 18
+types of data binding
+difference between promise and observable
+what is subjects and types
+how to handle error in angular
+what is interceptor
+what is pure and impure pipe
+difference between aot and JIT
+how too improve performance in angular
+what is guards in angular and its type
+routings
+viewEncapsulation and its types
+how change detection is works
+karma and jasmine testing
+standalone component
+object initialization in standalone and no standalone component
+what is singletone
+dependency injection
+error handle in angular
+observable method in angular
+
+
+JavaScript
+
+let,var,const difference
+scopes in javascript
+
+hoisting in  java script
+
+closure
+
+html and scss
+
+inline and block level component
+
+mixins and includes difference
+
+Coding:
+
+child to parent communication
+
+create custom component based on the list data
+
+subject with example
+
+
