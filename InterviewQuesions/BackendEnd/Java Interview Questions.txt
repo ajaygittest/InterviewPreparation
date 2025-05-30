@@ -1,0 +1,69 @@
+Java Interview Questions
+--------------------------
+
+HashMap Internal Working and how many method will called internally
+
+Java 8 features
+
+what is lambda functions
+
+java Oops
+
+method over loading and method over riding
+
+Threads
+
+typecasting
+
+why string is immutable
+
+== and equals difference
+
+what is Object class
+
+types of inheritance
+
+abstraction and interface difference
+
+method reference
+
+functional interface
+
+static key word
+
+final,finally and finalize
+
+what are the new features in interface
+
+records in java
+
+java 17 features
+
+how to achieve multiple inheritance in java
+
+what is diamond problem
+
+public static void main(String args[]) - explain this
+
+checked and unchecked exceptions
+
+create custom exception
+
+throw and throws 
+
+try catch block
+
+when finally block will not execute
+
+garbage collectors
+
+stages of garbage collectors
+
+wrapper class
+
+access modifiers
+
+how to create immutable variable
+
+
+
