@@ -1,69 +1,74 @@
 Java Interview Questions
 --------------------------
 
-HashMap Internal Working and how many method will called internally
+1.HashMap Internal Working and how many method will called internally
 
-Java 8 features
+2.Java 8 features
 
-what is lambda functions
+3.what is lambda functions
 
-java Oops
+4.java Oops
 
-method over loading and method over riding
+5.method over loading and method over riding
 
-Threads
+6.Threads
 
-typecasting
+7.typecasting
 
-why string is immutable
+8.why string is immutable
 
-== and equals difference
+9.== and equals difference
 
-what is Object class
+10.what is Object class
 
-types of inheritance
+11.types of inheritance
 
-abstraction and interface difference
+12.abstraction and interface difference
 
-method reference
+13.method reference
 
-functional interface
+14.functional interface
 
-static key word
+15.static key word
 
-final,finally and finalize
+16.final,finally and finalize
 
-what are the new features in interface
+17.what are the new features in interface
 
-records in java
+18.records in java
 
-java 17 features
+19.java 17 features
 
-how to achieve multiple inheritance in java
+20.how to achieve multiple inheritance in java
 
-what is diamond problem
+21.what is diamond problem
 
-public static void main(String args[]) - explain this
+22.public static void main(String args[]) - explain this
 
-checked and unchecked exceptions
+23.checked and unchecked exceptions
 
-create custom exception
+24.create custom exception
 
-throw and throws 
+25.throw and throws 
 
-try catch block
+26.try catch block
 
-when finally block will not execute
+27.when finally block will not execute
 
-garbage collectors
+28.garbage collectors
 
-stages of garbage collectors
+29.stages of garbage collectors
 
-wrapper class
+30.wrapper class
 
-access modifiers
+31.access modifiers
 
-how to create immutable variable
+32.how to create immutable variable
+
+33.Insertion order in hashmap,list
+
+34.Collections in java
+
 
 
 
