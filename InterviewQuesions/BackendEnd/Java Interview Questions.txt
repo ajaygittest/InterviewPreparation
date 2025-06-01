@@ -69,6 +69,11 @@ Java Interview Questions
 
 34.Collections in java
 
+35.volatile and synchronize key words
+
+36.define set and stack 
+
+
 
 
 
