@@ -1,0 +1,9 @@
+Annotation's
+
+StereoType annotation
+
+@Controller and @RestController difference
+
+@Autowired
+
+@Qualifer
