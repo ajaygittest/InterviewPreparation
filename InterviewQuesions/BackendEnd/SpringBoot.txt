@@ -7,3 +7,8 @@ StereoType annotation
 @Autowired
 
 @Qualifer
+
+@Lazy
+
+@component,@repository,@service difference
+
