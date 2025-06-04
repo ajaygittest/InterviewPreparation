@@ -12,3 +12,8 @@ StereoType annotation
 
 @component,@repository,@service difference
 
+@Scheduler
+
+@CiruitBreaker
+
+@Entity, @Table
