@@ -10,6 +10,8 @@ StereoType annotation
 
 @Lazy
 
+@Configuration
+
 @component,@repository,@service difference
 
 @Scheduler
@@ -17,3 +19,9 @@ StereoType annotation
 @CiruitBreaker
 
 @Entity, @Table
+
+Spring Boot
+
+Spring boot and spring
+
+
