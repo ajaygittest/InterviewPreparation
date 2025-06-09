@@ -24,4 +24,12 @@ Spring Boot
 
 Spring boot and spring
 
+Dependency injection
+
+how spring boot application start
+
+what is monolethic application
+
+
+
 
