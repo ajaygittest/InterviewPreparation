@@ -30,6 +30,16 @@ how spring boot application start
 
 what is monolethic application
 
+Microservices
+
+Monolethic and microservices difference
+
+how microservices communication works
+
+RestTemplate different methods
+
+
+
 
 
 
