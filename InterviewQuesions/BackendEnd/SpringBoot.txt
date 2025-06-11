@@ -38,6 +38,19 @@ how microservices communication works
 
 RestTemplate different methods
 
+Feign interface and write feign interface class
+
+explain webclient
+
+logging flow(log4j + slf4j)
+
+what is ZipKin
+
+explain role of apiGateway
+
+
+
+
 
 
 
