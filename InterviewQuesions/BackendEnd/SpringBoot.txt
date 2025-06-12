@@ -1,5 +1,5 @@
 Annotation's
-
+----------------------------------------------------
 StereoType annotation
 
 @Controller and @RestController difference
@@ -7,6 +7,8 @@ StereoType annotation
 @Autowired
 
 @Qualifer
+
+@Cache
 
 @Lazy
 
@@ -21,6 +23,7 @@ StereoType annotation
 @Entity, @Table
 
 Spring Boot
+---------------------------------------------------------------------
 
 Spring boot and spring
 
@@ -31,6 +34,7 @@ how spring boot application start
 what is monolethic application
 
 Microservices
+---------------------------------------------------------------------
 
 Monolethic and microservices difference
 
@@ -47,6 +51,17 @@ logging flow(log4j + slf4j)
 what is ZipKin
 
 explain role of apiGateway
+
+Explain  Service Registry
+
+how to handle if one microservice goes down(Circuit Breaker)
+
+
+
+
+
+
+
 
 
 
