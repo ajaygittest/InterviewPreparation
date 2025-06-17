@@ -58,6 +58,10 @@ how to handle if one microservice goes down(Circuit Breaker)
 
 JWT and Oath work flow explain
 
+Swagger implementation
+
+Actuator
+
 
 
 
