@@ -1,3 +1,9 @@
 1.Find occurrence of each characters in a string(Using map and Streams)
 
 2. Find 2nd max value from the list
+
+3. Find first duplicate values in a string
+
+4. find Duplicates in a string
+
+5. Method over loading and method over riding example program
