@@ -22,6 +22,8 @@ StereoType annotation
 
 @Entity, @Table
 
+@Transaction
+
 Spring Boot
 ---------------------------------------------------------------------
 
@@ -32,6 +34,23 @@ Dependency injection
 how spring boot application start
 
 what is monolethic application
+
+JPA
+---------------------------------------------------------------------
+
+JPA relation types(one to one,..etc)
+
+Explain Transactional annotation
+
+Entity Manager
+
+@ID
+
+CascadeTypes
+
+FetchMode(eager and lazy)
+
+1+N Problem
 
 Microservices
 ---------------------------------------------------------------------
