@@ -7,3 +7,25 @@
 4. find Duplicates in a string
 
 5. Method over loading and method over riding example program
+
+6. Input=aabbcc and the ouput is 2a2b2c
+
+7. Problems using substring ex-firstname->FirstName
+
+8. 2nd max value from the list without using inbuild method
+
+9. write a code to reverse a array
+
+10. validate paranthesis
+
+11. rotate an array eg input = 6 5 3 1 2 6 output = 2 6 3 1 6 5
+
+12. (12,5) (2,6) (13,14)(3,5) print the inbetween number
+
+13. List of integers find min and max value using stream api
+
+14. write a stream api code to fetch emp detailswho is having >5000 salary
+
+15. write a stream api program to fetch words from list of strings which starts with char "a"
+
+16. 2nd max salary from employee object list using stream
