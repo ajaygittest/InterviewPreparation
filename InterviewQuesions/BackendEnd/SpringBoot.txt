@@ -24,6 +24,8 @@ StereoType annotation
 
 @Transaction
 
+@query and @namedQuery
+
 Spring Boot
 ---------------------------------------------------------------------
 
@@ -34,6 +36,13 @@ Dependency injection
 how spring boot application start
 
 what is monolethic application
+
+Testing
+---------------------------------------------
+how to test static and final method
+
+how to test private method 
+
 
 JPA
 ---------------------------------------------------------------------

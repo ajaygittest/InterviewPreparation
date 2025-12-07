@@ -29,3 +29,9 @@
 15. write a stream api program to fetch words from list of strings which starts with char "a"
 
 16. 2nd max salary from employee object list using stream
+
+17. find sum of categoires in a field(Product class, variable-name,price,categories)
+
+18. find integer in a list using stream
+
+19. rearrange zero in a list ex: 1,2,3,5,0,0,8,0-> 1,2,3,4,5,0,0,0

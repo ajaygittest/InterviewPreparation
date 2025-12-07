@@ -74,7 +74,15 @@ Java Interview Questions
 36.define set and stack 
 
 37.Executor class
- 
+
+18. HashMap and linkedHashmap difference
+
+19. timecomplexity for hashmap, array, linkedlist(insert) best and worst case even if we insert middle
+
+20. Projection in sql
+
+22. mvn comand-> clean, release, install, package
+
 
 
 
