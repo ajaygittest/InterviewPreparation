@@ -28,6 +28,8 @@ what is singletone
 dependency injection
 error handle in angular
 observable method in angular
+create dynamic component
+component and module difference
 
 
 JavaScript

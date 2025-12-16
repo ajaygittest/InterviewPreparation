@@ -83,6 +83,9 @@ Java Interview Questions
 
 22. mvn comand-> clean, release, install, package
 
+23. abstract and singleton
+
+
 
 
 

@@ -37,6 +37,8 @@ how spring boot application start
 
 what is monolethic application
 
+explain IOC container
+
 Testing
 ---------------------------------------------
 how to test static and final method
