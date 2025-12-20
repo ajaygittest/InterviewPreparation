@@ -30,6 +30,7 @@ error handle in angular
 observable method in angular
 create dynamic component
 component and module difference
+http module explain
 
 
 JavaScript
