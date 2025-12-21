@@ -85,6 +85,9 @@ Java Interview Questions
 
 23. abstract and singleton
 
+24. wait and sleep
+
+
 
 
 
