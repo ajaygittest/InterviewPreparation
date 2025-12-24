@@ -87,6 +87,9 @@ Java Interview Questions
 
 24. wait and sleep
 
+25. Map and HashMap difference
+ 
+
 
 
 
