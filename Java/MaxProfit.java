@@ -5,7 +5,7 @@ public class MaxProfit {
 	        if (prices == null || prices.length == 0) {
 	            return 0;
 	        }
-//
+
 	        int minPrice = Integer.MAX_VALUE;
 	        int maxProfit = 0;
 
