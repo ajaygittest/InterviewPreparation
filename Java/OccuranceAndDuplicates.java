@@ -18,7 +18,7 @@ public class OccuranceAndDuplicates {
 	}
 	
 	public static void Occurance() {
-		String n="YesuRajae".toLowerCase();
+		String n="YesuRaja".toLowerCase();
 		
 		Map<Character,Integer> result = new HashMap<>();
 		Map<Character,Integer> duplicateMap = new HashMap<>();
