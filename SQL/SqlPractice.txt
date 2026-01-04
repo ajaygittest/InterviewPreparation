@@ -15,7 +15,7 @@ select patients.patient_id, first_name, last_name from patients join admissions 
 
 select upper(first_name) from patients order by len(first_name), first_name
 
-
+//
 
 select
 (select count(*) from patients where gender='M') as male_count ,
