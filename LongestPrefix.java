@@ -13,7 +13,7 @@ public class LongestPrefix {
 		//System.out.println(longestPrefix(strs));
 		System.out.println(StringCompression(input));
 	}
-	
+	//
 	
 	public static String longestPrefix(String[] s1) {
 		
