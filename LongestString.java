@@ -12,7 +12,7 @@ public class LongestString {
 		LongestString() ;
 	}
 	//
-	
+	//
 	public static void LongestString() {
 		List<String> strings = Arrays.asList("apple", "banana", "cherry", "date", "grapefruit");
 		
