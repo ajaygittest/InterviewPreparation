@@ -88,6 +88,22 @@ Java Interview Questions
 24. wait and sleep
 
 25. Map and HashMap difference
+
+26. comparator and comparator difference and where its used
+
+27. how to make class as immutable
+
+28. synchronized in java explain
+
+29. reference types in java
+
+30. interface in collection framework
+
+31. what is method reference
+
+32 terminal and intermediate operation in stream
+
+33. finalize method why its called and what will declared inside that
  
 
 

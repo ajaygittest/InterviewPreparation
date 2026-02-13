@@ -56,3 +56,5 @@ OUTPUT: YES
 INPUT: [4,3,3,6,4,3]
 OUTPUT: [3, 3, 3, 4, 4, 6]
 
+24. longest string in a list using steam
+

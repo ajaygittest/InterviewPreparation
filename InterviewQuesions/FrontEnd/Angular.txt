@@ -31,6 +31,11 @@ observable method in angular
 create dynamic component
 component and module difference
 http module explain
+observable methods(ex. debounce etc..explaina all)
+types of subject
+signal
+angular 19 features
+
 
 
 JavaScript
@@ -55,5 +60,7 @@ child to parent communication
 create custom component based on the list data
 
 subject with example
+
+forkJoin
 
 

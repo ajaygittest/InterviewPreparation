@@ -27,9 +27,16 @@ StereoType annotation
 @query and @namedQuery
 
 Spring Boot
+
 ---------------------------------------------------------------------
 
 Spring boot and spring
+
+how autoconfiguration work internally in java
+
+circuit breaker pattern
+
+JWT work flow
 
 Dependency injection
 
@@ -40,6 +47,7 @@ what is monolethic application
 explain IOC container
 
 Testing
+
 ---------------------------------------------
 how to test static and final method
 
@@ -57,11 +65,13 @@ Entity Manager
 
 @ID
 
-CascadeTypes
+CascadeTypes explain why its required
 
 FetchMode(eager and lazy)
 
 1+N Problem
+
+pagination
 
 Microservices
 ---------------------------------------------------------------------
