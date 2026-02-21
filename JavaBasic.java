@@ -18,7 +18,7 @@ public class JavaBasic {
 		//longestSubArray();
 		nonRepeating();
 	}
-	
+	//
 	public static int missingNumber(int[] arr, int n) {
 		int totalSum=n*(n+1)/2;
 		
