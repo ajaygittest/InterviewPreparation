@@ -58,3 +58,6 @@ OUTPUT: [3, 3, 3, 4, 4, 6]
 
 24. longest string in a list using steam
 
+25. find the male and female count in a list each department using stream
+
+

@@ -104,6 +104,8 @@ Java Interview Questions
 32 terminal and intermediate operation in stream
 
 33. finalize method why its called and what will declared inside that
+
+34. sealed class and textbox in java
  
 
 
