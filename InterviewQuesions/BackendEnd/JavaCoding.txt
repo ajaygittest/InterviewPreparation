@@ -60,4 +60,6 @@ OUTPUT: [3, 3, 3, 4, 4, 6]
 
 25. find the male and female count in a list each department using stream
 
+26. sort the array without using inbuild method and set also remove duplicate
+
 

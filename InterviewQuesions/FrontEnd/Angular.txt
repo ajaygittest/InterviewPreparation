@@ -63,4 +63,6 @@ subject with example
 
 forkJoin
 
+reactive form validation for allow only string and number
+
 
