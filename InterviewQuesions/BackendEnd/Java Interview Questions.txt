@@ -109,6 +109,9 @@ Java Interview Questions
 
 35. sonar qube scan maintain percentage
  
+36. how to validate sql injection api request
+
+37. hibernate and jpa difference and uses
 
 
 

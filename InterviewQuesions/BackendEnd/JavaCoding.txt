@@ -62,4 +62,6 @@ OUTPUT: [3, 3, 3, 4, 4, 6]
 
 26. sort the array without using inbuild method and set also remove duplicate
 
+27. using stream filter the employee whos have salary more than 5000 and sort the list by employee name acending order
+
 
