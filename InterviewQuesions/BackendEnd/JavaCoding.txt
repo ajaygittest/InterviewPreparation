@@ -64,4 +64,14 @@ OUTPUT: [3, 3, 3, 4, 4, 6]
 
 27. using stream filter the employee whos have salary more than 5000 and sort the list by employee name acending order
 
+28. Compute the sum of even numbers from 0 to a dynamic upper limit (N), which can range from hundreds to millions.
+Use multithreading to split the range into chunks, process them in parallel, and combine the results efficiently.
+
+
+SQL
+
+find 2nd large salary of employee
+
+find the employee with given date of joining range and groupby doj
+
 

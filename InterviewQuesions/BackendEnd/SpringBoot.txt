@@ -46,6 +46,10 @@ what is monolethic application
 
 explain IOC container
 
+How can I validate multiple fields, including nested objects, in a Spring Boot request body
+
+How can you efficiently load multiple related properties from application.properties in Spring Boot
+
 Testing
 
 ---------------------------------------------
