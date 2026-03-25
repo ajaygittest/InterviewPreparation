@@ -74,4 +74,6 @@ find 2nd large salary of employee
 
 find the employee with given date of joining range and groupby doj
 
+cluster and non cluster index
+
 
