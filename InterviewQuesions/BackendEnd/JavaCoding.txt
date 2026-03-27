@@ -67,6 +67,8 @@ OUTPUT: [3, 3, 3, 4, 4, 6]
 28. Compute the sum of even numbers from 0 to a dynamic upper limit (N), which can range from hundreds to millions.
 Use multithreading to split the range into chunks, process them in parallel, and combine the results efficiently.
 
+2. String intern
+
 
 SQL
 
