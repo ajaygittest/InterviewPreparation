@@ -113,6 +113,12 @@ Java Interview Questions
 
 37. hibernate and jpa difference and uses
 
+38. Authentication and authorization difference
+
+39. spring web security filter
+
+40. 
+
 
 
 

@@ -36,7 +36,7 @@ how autoconfiguration work internally in java
 
 circuit breaker pattern
 
-JWT work flow
+JWT work flow and JWT contains what are the properties
 
 Dependency injection
 
@@ -49,6 +49,8 @@ explain IOC container
 How can I validate multiple fields, including nested objects, in a Spring Boot request body
 
 How can you efficiently load multiple related properties from application.properties in Spring Boot
+
+use of eureka server
 
 Testing
 
