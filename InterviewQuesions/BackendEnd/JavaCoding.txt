@@ -71,6 +71,8 @@ Use multithreading to split the range into chunks, process them in parallel, and
 
 29. three sum problem
 
+30. validate that API endpoints start with v1/api in a Spring Boot app secured with OAuth
+
 
 SQL
 
