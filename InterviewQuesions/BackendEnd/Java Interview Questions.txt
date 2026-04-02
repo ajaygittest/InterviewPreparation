@@ -117,7 +117,15 @@ Java Interview Questions
 
 39. spring web security filter
 
-40. 
+40. what is Cross-Site Scripting and how it will prevent in spring boot
+
+41. ssl certificate
+
+42. how to prevent in dead lock if we deploy multiple container(spring boot application)
+
+43. Collections and stream
+
+44. how to serialize and deserialize files in spring boot
 
 
 

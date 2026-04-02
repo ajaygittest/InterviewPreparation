@@ -52,6 +52,10 @@ How can you efficiently load multiple related properties from application.proper
 
 use of eureka server
 
+spring AOP
+
+
+
 Testing
 
 ---------------------------------------------
