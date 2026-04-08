@@ -127,10 +127,12 @@ Java Interview Questions
 
 44. how to serialize and deserialize files in spring boot
 
+45. first level and 2nd level cache
 
+46. explain the role of dispatcher servlet
 
+47. runnable and callable difference
 
+48. Executor class
 
-
-
-
+49. how to prevent concurrent modification from the resource

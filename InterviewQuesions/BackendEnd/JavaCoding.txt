@@ -73,6 +73,8 @@ Use multithreading to split the range into chunks, process them in parallel, and
 
 30. validate that API endpoints start with v1/api in a Spring Boot app secured with OAuth
 
+31. employee-->active-->department wise highest average salary using streams
+
 
 SQL
 
@@ -81,5 +83,8 @@ find 2nd large salary of employee
 find the employee with given date of joining range and groupby doj
 
 cluster and non cluster index
+
+
+Retrieve a list of Departments that have more than 3 employees, showing the Department Name and the employee count, only for departments located in 'New York', ordered by the highest employee count first.
 
 

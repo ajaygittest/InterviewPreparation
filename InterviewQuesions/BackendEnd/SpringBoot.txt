@@ -114,6 +114,12 @@ Actuator
 
 Spring Security-explain the flow
 
+spring security layers(authentication provide..etc)
+
+open and close principle in JWT and Oath security filter in spring boot
+
+
+
 
 
 
