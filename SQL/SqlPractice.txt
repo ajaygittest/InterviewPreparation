@@ -1,7 +1,7 @@
 
 // website: https://www.sql-practice.com/
 //Video: https://www.youtube.com/watch?v=nYmoQ4r0DVw
-
+//
 SELECT * FROM patients
 
 select distinct year(birth_date) from patients order by year(birth_date) asc
